@@ -10,7 +10,7 @@ function changeLeastFavoriteCustomer(){
 }
 
 
-function setBestCustomer(){
+function setBestCustomer() {
   bestCustomer = 'not bob'
 }
 
